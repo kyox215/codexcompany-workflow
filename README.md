@@ -45,6 +45,7 @@ $codexcompany-workflow 继续任务 42。先核对项目交接和最新纠正，
 - [SKILL.md](SKILL.md) 根据任务大小决定下一步。
 - [产品交付十阶段](references/delivery.md) 定义每一步的结果和通过条件。
 - [协作与验收](references/operations.md) 明确经理、专业岗位、桌面排队与独立复测。
+- [目录与归档模板](references/project-layout.md) 给出三分类、项目登记和按任务号归档示例。
 - [接续与记忆](references/continuation.md) 处理项目归属、当前决定、任务接续与留档。
 - [技能路由](references/routing.md) 按平台和步骤选择已有专业能力。
 - [可复制模板](references/templates.md) 包含规格、页面、状态数据、切片、派工、验收、发布和交接。
